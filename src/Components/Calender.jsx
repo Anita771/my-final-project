@@ -1,6 +1,4 @@
 import Calendar from "react-calendar";
-export default Calendar(){
-    return (
-
-    );
+export default function Calendar(){
+    return ;
 }
